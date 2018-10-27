@@ -1,0 +1,2 @@
+# VerticalShowcaseSlider
+VerticalShowcaseSlider
